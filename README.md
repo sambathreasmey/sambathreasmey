@@ -32,5 +32,5 @@ I focus on building scalable digital landscapes, specializing in system architec
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sambathreasmey&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambathreasmey&layout=compact&theme=transparent)
