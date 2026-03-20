@@ -46,13 +46,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sambathreasmey&theme=tokyonight&no-frame=true&column=4" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sambathreasmey&label=Profile%20Views&color=blue&style=flat" alt="Views" />
 </p>
