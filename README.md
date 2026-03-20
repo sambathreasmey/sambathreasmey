@@ -1,6 +1,12 @@
 # Hi there! I'm Sambath Reasmey 👋
 
-<p align="left">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Specialist+(Java+/+Spring);DevOps+%26+Cloud+Enthusiast;Building+Scalable+Digital+Landscapes" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Software%20Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Backend%20Developer-green?style=flat-square" />
   <img src="https://img.shields.io/badge/-DevOps-orange?style=flat-square" />
