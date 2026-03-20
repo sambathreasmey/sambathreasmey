@@ -46,8 +46,8 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sambathreasmey&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=sambathreasmey&theme=tokyonight&area=true" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sambathreasmey&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=sambathreasmey&theme=tokyonight&area=true" />
 </div>
 
 ---
