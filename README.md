@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,docker,kubernetes,jenkins,githubactions,linux,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,fastapi,postgres,redis,rabbitmq,docker,kubernetes,terraform,gcp,redhat,jenkins,githubactions,linux,git,flutter,express,js,ts" />
   </a>
 </p>
 
