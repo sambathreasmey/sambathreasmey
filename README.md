@@ -49,3 +49,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sambathreasmey&label=Profile%20Views&color=blue&style=flat" alt="Views" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+</div>
